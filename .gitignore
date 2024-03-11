@@ -1,0 +1,5 @@
+venv/*
+*.bat
+Dockerfile
+.vscode/*
+*.pyc
